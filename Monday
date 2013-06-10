@@ -1,0 +1,40 @@
+
+1. When is it acceptable to use CamelCase?
+
+- For naming classes, and possibly for constants.
+
+2. When do we use do…end instead of {…}?
+
+- do…end is used for blocks that have several statements spanned over several lines, {…} is used if the block consists of only one statement.
+
+3. In Test::Unit, what is the difference between assert and assert_equal?
+
+- assert_equal tests that two expressions are equal to each other, while assert tests if the the test case has a true value.
+
+4. Where do we put code that needs to be run before or after each test?
+
+- Depends…?
+
+5. When we use setup, why do we need to use instance variables?
+
+- So we can use them across different test methods.
+
+6. How do you run all the specs in a folder?
+
+- By supplying the path to the folder and running spec .
+
+7. What is a stub?
+
+- A stand-in class with the same methods as the real class.
+
+8. What is a mock?
+
+- sort of a stub v2.0?
+
+9. Why do we make sure that our tests are red before fixing them?
+
+- So that we know that they can fail, and then we write code that shall pass.
+
+10. If your company won't allow full tests, what does it mean to "exercise your code, even just a little bit."
+
+- Write smaller unit test, whatever you can.
