@@ -1,0 +1,52 @@
+
+1. What alternative keyword can we use if we're negating the boolean expression inside our if?
+
+- Unless.
+
+2. What is the 'negative doppleganger' for while?
+
+- Until.
+
+3. What is a "modifier form" of an expression? (Which I call a post-conditional)
+
+- The same expression collapsed into a single line for clutter free and more readable programming.
+
+4. What does a case statement return by default?
+
+- Nil.
+
+5. What two values evaluate to false inside and If?
+
+- False and nil.
+
+6. What is a ternary expression used for (?:)?
+
+- As a compact if statement.
+
+7. What is a “guarded or” used for (||=)?
+
+- Same as || but it reduces the length of the expression and you don't to repeat the name of the variable.
+
+8. What’s the fastest way to make an array of words?
+
+- %w{ one two three}  Used only if non of the strings have embedded spaces.
+
+9. When using symbols as Hash keys, what are the two ways to initialize a Hash using the curly brace notation? (1.9 hash syntax)
+
+- hash = { :one => 'hello', :two => 'hi' } and hash ={ one: 'hello', two: 'hi' }
+
+10. What is the name of the * operator?
+
+- Multiplication, (asterisk, starred parameter/argument)?
+
+11. Should you use a for loop to iterate over an Array or Hash? If not, what’s the alternative?
+
+- 
+
+12. What is the difference between each and map?
+
+-
+
+13. What is a bang method?
+
+-
