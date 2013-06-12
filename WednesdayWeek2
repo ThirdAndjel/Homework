@@ -1,0 +1,21 @@
+
+1. How do you add a newline to a String?
+
+- \n
+
+
+2. What is the difference between single and double quotes?
+
+- Double quotes are more flexible, doing more interpretation and allowing for embedded expressions.
+
+3. How would you replace all instances of the word ‘pie’ with the word ‘pizza’ in a String?
+
+- .sub ('pie', 'pizza')
+
+4. What is the difference between gsub and gsub!?
+
+- It will modify the original string instead of returning a modified copy.
+
+5. Do a little research on apidock.com and find 5 methods on String that you think are interesting and could be useful.
+
+- 
