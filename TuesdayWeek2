@@ -41,12 +41,12 @@
 
 11. Should you use a for loop to iterate over an Array or Hash? If not, what’s the alternative?
 
-- 
+- No. each method
 
 12. What is the difference between each and map?
 
--
+- Map does not make a decision based on the return from the block instead it creates a new array containing everything the block returned in order. 
 
 13. What is a bang method?
 
--
+- A method that ends with an exclamation point, which permanently modifies an object in-place. A way of saying: "beware, this method is dangerous". 
