@@ -1,40 +1,37 @@
 
 1. What does the dot character match?
 
--
+- Any single character except a newline character.
 
 2. How do you match exactly 3 lower case characters
 
--
+- By typing those 3 characters in lower case.
 
 3. How do you match a range of characters?
 
--
+- [ - ]
 
 4. How do you match any whitespace?
 
--
+- \s
 
 5. How do you match any number?
 
--
+- \d
 
 6. How do you match either “ferret” or “weasel”?
 
--
+- ferret|weasel
 
 7. What’s the difference between * and +
 
--
+- * will match zero or more of what came before it, while + will match 1 or more.
 
 8. What does the operator =~ do in Ruby?
 
--
+- To test wether a regular expression matches a string
 
 9. How do you match the beginning/end of a line?
 
--
-
-10. Regular expressions marked the beginning of my serious programmer career. Seriously spend some time on this. In fact, write down the time and remember where you were when you learned regexen.
-
--
+- /\Abeginningofline/  /endofline\z/ 
+ 	
