@@ -1,0 +1,40 @@
+
+1. What does the dot character match?
+
+-
+
+2. How do you match exactly 3 lower case characters
+
+-
+
+3. How do you match a range of characters?
+
+-
+
+4. How do you match any whitespace?
+
+-
+
+5. How do you match any number?
+
+-
+
+6. How do you match either “ferret” or “weasel”?
+
+-
+
+7. What’s the difference between * and +
+
+-
+
+8. What does the operator =~ do in Ruby?
+
+-
+
+9. How do you match the beginning/end of a line?
+
+-
+
+10. Regular expressions marked the beginning of my serious programmer career. Seriously spend some time on this. In fact, write down the time and remember where you were when you learned regexen.
+
+-
