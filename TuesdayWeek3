@@ -1,0 +1,43 @@
+1. What is the most common short version of $(document).ready()?
+
+- $()
+
+2. What is “progressive enhancement”?
+
+- Improved way of handling events. 
+
+3. How do you bind a click event to a button?
+
+- $(document).ready(function() {
+    $('#button id').bind('click', function() {
+      $('body').addClass('large');
+    });
+  });
+
+4. Inside a click handler, what is the variable this set to?
+
+- 
+
+5. What is event bubbling?
+
+-
+
+6. How do we stop an event from bubbling up the chain?
+
+-
+
+7. How do we stop an element from taking its default action (e.g. a submit button will refresh the page or submit a form)
+
+- 
+
+8. How do we remove a binding?
+
+- 
+
+9. How do we hide and show elements?
+
+-
+
+10. How do we blur or slide elements?
+
+- 
