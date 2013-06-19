@@ -1,0 +1,34 @@
+1. How do you alter an a tag’s href attribute?
+
+- 
+
+2. How do you create new content and add it to the page?
+
+- 
+
+
+3. How do you move content within the page?
+
+- 
+
+4. What jQuery function do we use to iterate over all elements in a jQuery set?
+
+- 
+
+5. How do you copy a DOM element? How do you copy any event listeners as well?
+
+- 
+
+6. What’s the difference between .text() and .html()?
+
+- 
+
+
+7. How do we remove all the content inside an element?
+
+- 
+
+8. When you insert new content into the page, does it have bindings attached to it? If not, how do we make sure that existing bindings that should have targeted the new element, do?
+
+- 
+
